@@ -12,9 +12,10 @@ using namespace std;
 int main() {
 	cout << "!!!Hello GIT!!!" << endl; // prints !!!Hello World!!!
 
-	cout << "Modified!"<<endl;
 
 	cout << "Change 1+" <<endl;
+
+	cout << "Change 2" <<endl;
 
 	return 0;
 }
