@@ -14,5 +14,7 @@ int main() {
 
 	cout << "Modified!"<<endl;
 
+	cout << "Change 2" <<endl;
+
 	return 0;
 }
